@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    align-items: center;
+    align-content: center;
+
+    text-transform: uppercase;
+}
+table , th , tr , td{
+    border: solid 1px black;
+    border-collapse: collapse;
+    padding: 1rem;
+}
